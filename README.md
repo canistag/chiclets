@@ -1,6 +1,9 @@
-# Chiclets
+<img src="https://github.com/canistag/chiclets/blob/main/canistag nhl.png" align="left" width="100" height="100" style="margin-right: 15px;">
 
-An ongoing hockey database project that uses Jupyter Notebook to predict career stats of #1 draft picks and matches them to similar inactive players.
+<br>
+
+# Chiclets
+<br> An ongoing hockey database project that uses Jupyter Notebook to predict career stats of #1 draft picks and matches them to similar inactive players.
 
 # Question
 Can we use Python to predict the careers of #1 draft picks in the NHL? Can we find players with similar records?
