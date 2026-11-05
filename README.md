@@ -21,7 +21,8 @@ Average Plus Minus | 7.08 | 34.37 |
 Average Point Shares | 70.94 | 82.3 |
 
 For the screenshot below, I used StandardScaler, NearestNeighbors, and some aggregation in order to predict Jack Hughes' lifetime points and similar retired players. 
-<img width="945" height="587" alt="image" src="https://github.com/user-attachments/assets/102cd3db-03cc-4e0e-a5cc-7a2342c1ffeb" />
+<img width="1098" height="582" alt="image" src="https://github.com/user-attachments/assets/ec1119e0-e38e-46c5-bb29-89b6b31669a9" />
+
 
 
 # Data
